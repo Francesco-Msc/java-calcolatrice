@@ -2,7 +2,7 @@ package org.lessons.java.utils;
 
 public class CalcoliHelper {
 
-    //Applico l'overloading ovvero piu metodi con lo stesso nome
+    //Applico l'overloading ovvero piu metodi con lo stesso nome ma con funzionalità o parametri diversi
 
     public static int somma (int a, int b){
         return a + b;
